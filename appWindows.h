@@ -38,5 +38,6 @@ void WM_time(HWND hwnd);
 void WM_paint(HWND hwnd);
 void InitializeBrushes();
 void DestroyBrushes();
+void ResetWindows(HWND hwnd);
 
 #endif // APPWINDOWS_H

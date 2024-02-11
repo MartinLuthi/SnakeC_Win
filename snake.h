@@ -16,7 +16,6 @@
 #include "appWindows.h"
 
 // Prototypes
-void ResetWindows(HWND hwnd);
 void spawnFood();
 int isFoodOnSnake();
 
