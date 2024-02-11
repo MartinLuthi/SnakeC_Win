@@ -2,6 +2,7 @@
     "files.associations": {
         "appwindows.h": "c",
         "windows.h": "c",
-        "snake.h": "c"
+        "snake.h": "c",
+        "time.h": "c"
     }
 }

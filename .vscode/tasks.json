@@ -7,7 +7,6 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                // link every .c in the same directory of the executable
                 "${fileDirname}\\*.c",
                 "-mwindows",
                 "-O3",

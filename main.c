@@ -20,9 +20,6 @@ int main() {
 
     // Create the window
     WinMain(GetModuleHandle(NULL), NULL, NULL, SW_SHOWNORMAL);
-
-    // Clean up brushes
-    DestroyBrushes();
-
+    
     return 0;
 }
